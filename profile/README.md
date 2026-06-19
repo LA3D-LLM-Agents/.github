@@ -53,7 +53,7 @@ convention. Two paths to participate:
 ## Maintainers
 
 - Christopher Sweet (lead): [@chrissweet](https://github.com/chrissweet)
-- Charles Vardeman (LA3D, co-owner): `@<TODO-fill-in-handle>`
+- Charles Vardeman (LA3D, co-owner): [@charlesvardeman](https://github.com/charlesvardeman)
 
 ## See also
 
